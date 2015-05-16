@@ -1,0 +1,12 @@
+c:\users\web app develop .net\documents\visual studio 2013\Projects\YearlyCostCalculator\bin\Debug\YearlyCostCalculator.exe.config
+c:\users\web app develop .net\documents\visual studio 2013\Projects\YearlyCostCalculator\bin\Debug\YearlyCostCalculator.exe
+c:\users\web app develop .net\documents\visual studio 2013\Projects\YearlyCostCalculator\bin\Debug\YearlyCostCalculator.pdb
+c:\users\web app develop .net\documents\visual studio 2013\Projects\YearlyCostCalculator\obj\Debug\YearlyCostCalculator.csprojResolveAssemblyReference.cache
+c:\users\web app develop .net\documents\visual studio 2013\Projects\YearlyCostCalculator\obj\Debug\YearlyCostCalculator.yearlyCostCalculatorUI.resources
+c:\users\web app develop .net\documents\visual studio 2013\Projects\YearlyCostCalculator\obj\Debug\YearlyCostCalculator.Properties.Resources.resources
+c:\users\web app develop .net\documents\visual studio 2013\Projects\YearlyCostCalculator\obj\Debug\YearlyCostCalculator.csproj.GenerateResource.Cache
+c:\users\web app develop .net\documents\visual studio 2013\Projects\YearlyCostCalculator\obj\Debug\YearlyCostCalculator.exe
+c:\users\web app develop .net\documents\visual studio 2013\Projects\YearlyCostCalculator\obj\Debug\YearlyCostCalculator.pdb
+E:\zahid\exp\YearlyCostCalculator\bin\Debug\YearlyCostCalculator.exe.config
+E:\zahid\exp\YearlyCostCalculator\obj\Debug\YearlyCostCalculator.exe
+E:\zahid\exp\YearlyCostCalculator\obj\Debug\YearlyCostCalculator.pdb
